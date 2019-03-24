@@ -1,0 +1,36 @@
+.container {
+  position: relative;
+  border: 3px solid #00ccff;
+  padding-right: 0;
+}
+nav {
+  position: absolute;
+  left: 0;
+  width: 200px;
+  border: 3px solid red;
+}
+section {
+  margin-left: 185px;
+  border: 3px solid orange;
+  padding: 15px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}
+body {
+  margin-bottom: 120px;
+}
+
+mark {
+  background-color: lightgray;
+  opacity: 0.8;
+}
+
+li a{
+  color: red;
+}
